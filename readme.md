@@ -11,13 +11,14 @@
 <a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
- 
- ### Main skills:
+  
+<div align="center"> 
+### Main skills:
 ![Python](https://github.com/joaovmourasouza/joaovmourasouza/assets/79487602/5c61dc37-536b-4ca2-b222-74193451666a)
 ![R](https://github.com/joaovmourasouza/joaovmourasouza/assets/79487602/5e670956-cdfd-46be-a8b5-318252514903)
 ![MS](https://github.com/joaovmourasouza/joaovmourasouza/assets/79487602/21ced273-1067-45eb-8e0c-3839b2e6d0e9)
 ![Excel](https://github.com/joaovmourasouza/joaovmourasouza/assets/79487602/75fcbd76-aef1-4505-9fbb-7259015341d4)
-
+ </div>
 
 ### Studying in this moment:
 ![My SQL](https://github.com/joaovmourasouza/joaovmourasouza/assets/79487602/0182b2f9-aef7-47cf-ba97-e8b44789d437)
